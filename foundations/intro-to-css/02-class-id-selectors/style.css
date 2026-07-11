@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.style {
+    background-color: rgb(255, 190, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#num2 {
+    color: rgb(36, 111, 255);
+    font-size: 36px;
+}
+
+#num3,
+#num4{
+    font-size: 24px;
+}
+
+#num4 {
+    background-color:#9cf29a;
+    font-weight: 700;
+}
